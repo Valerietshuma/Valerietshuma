@@ -18,7 +18,7 @@ I specialize in developing applications that are both functional and user-friend
 
 Feel free to explore my repositories and connect with me! Here are a few ways to get in touch:
 
-- **LinkedIn:** (https://za.linkedin.com/in/valerie-tshuma-0392132a9) 🔗
+- **LinkedIn:** (https://za.linkedin.com/in/hlulani-tshuma-0392132a9) 🔗
 
 
 
