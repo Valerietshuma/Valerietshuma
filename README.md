@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-Hello! I’m [Your Name], a passionate software developer with a diverse skill set in building dynamic and efficient applications. I enjoy solving complex problems and creating intuitive user experiences.
+Hello! I’m Valerie Tshuma, a passionate software developer with a diverse skill set in building dynamic and efficient applications. I enjoy solving complex problems and creating intuitive user experiences.
 
 ## 🛠 Skills
 
@@ -18,18 +18,7 @@ I specialize in developing applications that are both functional and user-friend
 
 Feel free to explore my repositories and connect with me! Here are a few ways to get in touch:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com) 📧
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) 🔗
+- **LinkedIn:** (https://za.linkedin.com/in/valerie-tshuma-0392132a9) 🔗
 
-## 🤝 Contributing
 
-I welcome contributions! If you have suggestions or improvements, please feel free to fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-Thank you for visiting my profile! I appreciate any feedback and look forward to connecting with fellow developers.
 
