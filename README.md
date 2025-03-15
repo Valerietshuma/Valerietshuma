@@ -4,7 +4,7 @@ Hello! I’m Valerie Tshuma, a passionate software developer with a diverse skil
 
 ## 🛠 Skills
 
-- **Languages:** C#, Java, JavaScript, Kotlin
+- **Languages:** C#, Java, JavaScript, Kotlin, 
 - **Web Development:** HTML, CSS
 - **Mobile Development:** Android Studio (Kotlin)
 - **Database Management:** MySQL
